@@ -1,16 +1,7 @@
-# my_new_todo_app
+# Roommate Todo App
 
 A new Flutter project.
 
-## Getting Started
+## Deskripsi
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi To-Do List ini dirancang untuk membantu pengguna mengelola tugas-tugas kita sehari-hari dengan cara yang mudah dan terorganisir. Pengguna dapat membuat daftar tugas, menetapkan tanggal, serta menandai tugas yang sudah selesai. Aplikasi ini dilengkapi dengan berbagai fitur tambahan seperti manajemen tugas berdasarkan tanggal, tampilan profil pengguna, dan pengaturan preferensi pengguna yang disimpan menggunakan shared_preferences.
